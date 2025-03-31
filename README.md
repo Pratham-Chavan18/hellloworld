@@ -1,1 +1,1 @@
-# hello world repository
+# hello world reposit
